@@ -1,16 +1,11 @@
-# draggable_buttons
+Draggable Buttons UI:
 
-A new Flutter project.
+• Create a Flutter application with a simple user interface containing
+three draggable buttons on the same page.
 
-## Getting Started
+Just clone the app and it is ready to use.
 
-This project is a starting point for a Flutter application.
+App Link: https://drive.google.com/file/d/1rNLZ7SCHaSxR8I_3b0avwzty9t1NAo0f/view?usp=share_link
 
-A few resources to get you started if this is your first Flutter project:
+App Video Link: https://drive.google.com/file/d/1HTymNM4kZ6EFEHwsjHY6fkM9hJYVXMuC/view?usp=share_link
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
